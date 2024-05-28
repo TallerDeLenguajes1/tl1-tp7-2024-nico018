@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\bin\Debug\net8.0\Ejercicio2.exe
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\bin\Debug\net8.0\Ejercicio2.deps.json
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\bin\Debug\net8.0\Ejercicio2.runtimeconfig.json
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\bin\Debug\net8.0\Ejercicio2.dll
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\bin\Debug\net8.0\Ejercicio2.pdb
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.sourcelink.json
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.dll
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\refint\Ejercicio2.dll
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll
