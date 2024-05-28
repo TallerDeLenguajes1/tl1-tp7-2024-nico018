@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.exe
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.deps.json
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.runtimeconfig.json
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.dll
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.pdb
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.AssemblyInfo.cs
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.sourcelink.json
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.dll
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\refint\CalculadoraConsola.dll
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.pdb
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.genruntimeconfig.cache
+C:\Users\usuario\Desktop\tl1-tp7-2024-nico018\CalculadoraConsola\obj\Debug\net8.0\ref\CalculadoraConsola.dll
